@@ -1,0 +1,6 @@
+# ninja log v5
+2	283	7053877149088553	CMakeFiles/Sierpinski.dir/main.cpp.obj	e125cf1006c7cbca
+284	361	7053877149836260	Sierpinski.exe	b391b0e3fe5ecba6
+3	202	7053886519170006	build.ninja	33678e7de8f2c1dd
+1	290	7053886522766354	CMakeFiles/Sierpinski.dir/SierpinskiFractal.cpp.obj	71e043bd6c9fd5ab
+290	382	7053886523663026	Sierpinski.exe	b21994ddb82f9126
